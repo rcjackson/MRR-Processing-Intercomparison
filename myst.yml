@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 68b216d7-7043-4947-ae02-b3ed5943124c
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/rcjackson/MRR-Processing-Intercomparison
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png

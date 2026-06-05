@@ -7,5 +7,5 @@ format: jb-book
 # format: jb-book
 root: index
 chapters:
-   - file: MRR2_Calibration
-   - file: MRR2_Processing
+   - file: MRR2_Calibration.ipynb
+   - file: MRR2_Processing.ipynb

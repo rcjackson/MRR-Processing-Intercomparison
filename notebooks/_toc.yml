@@ -1,13 +1,11 @@
 format: jb-book
-root: MRR_UrbanCanyons
+#root: MRR_UrbanCanyons
 
 # When you're ready to split the notebook into per-package chapters,
 # replace the structure above with the commented block below:
 #
 # format: jb-book
-# root: index
-# chapters:
-#   - file: improtoo
-#   - file: raprom
-#   - file: metek
-#   - file: comparison
+root: index
+chapters:
+   - file: MRR2_Calibration
+   - file: MRR2_Processing

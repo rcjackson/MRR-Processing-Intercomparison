@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Jupyter Book build output
+_build/
+
+# Pages assembly output
+_site/
+
+# OS
+.DS_Store

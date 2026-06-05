@@ -1,0 +1,23 @@
+title: MRR Processing Intercomparison — Processing Notebook
+author: Robert Jackson, Argonne National Laboratory
+logo: ""
+copyright: "2026"
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/rcjackson/MRR-Processing-Intercomparison
+  branch: main
+  path_to_book: notebooks
+
+html:
+  use_issues_button: true
+  use_repository_button: true
+  home_page_in_navbar: true
+  extra_navbar: |
+    <a href="../overview/">← Overview</a>
+
+sphinx:
+  config:
+    html_show_copyright: false
